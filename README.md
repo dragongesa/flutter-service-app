@@ -2,6 +2,11 @@
 
 This is service app based on flutter. 
 
+# How to Use
+
+First Install the backend at here https://github.com/dragongesa/service-app-flutter-backend
+Then Clone this!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
