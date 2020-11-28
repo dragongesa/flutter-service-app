@@ -1,6 +1,6 @@
 # service
 
-A new Flutter project.
+This is service app based on flutter. 
 
 ## Getting Started
 
